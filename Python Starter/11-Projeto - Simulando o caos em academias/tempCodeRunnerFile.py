@@ -1,0 +1,1 @@
+   academia = Academia(100,100)
